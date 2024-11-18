@@ -1,0 +1,13 @@
+Agenda->
+        Function and Recursion
+    
+Function  -> Block of Statements
+
+Recursion -> Function Calling Itself
+
+
+Why Functions->
+                1. Code Readability
+                2. Code Reuseability
+                3. Easy to Debug 
+
