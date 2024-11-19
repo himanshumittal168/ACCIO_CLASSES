@@ -241,4 +241,26 @@ function power(a,b)
 
 // 2^4=2^3*2
 
+2,5
 
+2,4    
+2,4-- 2*2*2*2
+
+2,3 -2*2*2
+
+2,4- 2,3*2
+
+x^n
+
+x^n-1
+
+function xPowerN(x, n) 
+{
+    // Write your code here
+    
+    if(n==0)
+    {
+      return 1;
+    }
+    return x * xPowerN(x,n-1);
+}

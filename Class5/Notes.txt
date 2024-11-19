@@ -1,0 +1,39 @@
+Recap-> Recursion+Function
+    Questions of yesterday
+
+    Agenda- String with Recursion
+
+
+Function-Block of Statement
+- Function is a block of code that can be called 
+multiple times from different parts of the program
+Advantage ->    
+                1. Readability
+                2. Reuseability
+                3. Easy to Debug
+
+
+Part-> 1 function defination
+       2 Function body
+       3 Function Call
+
+
+       function abc()    
+       {
+            console.log("HELLO ACCIO JOBS")
+       } 
+
+       abc();
+
+
+
+Recursion:- A function calling Itself
+ 
+Step1 Major 
+        Exception: Setup the Exception (Umeed)
+Step2 
+        Faith:Faith on Recursion
+Step3 Relation b/w s1&s2
+Step4 Base Case:when to StopStop🛑
+
+
